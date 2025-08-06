@@ -186,7 +186,7 @@ result = rotate_array_left(arr, 2)
 - **Repository**: https://github.com/aalparslan/coding-challenge-array-rotation.git
 - **Branch**: `master`
 - **Status**: ✅ Production Ready
-- **Last Updated**: January 2025
+- **Last Updated**: July 2025
 
 ## 🤝 Contributing
 
